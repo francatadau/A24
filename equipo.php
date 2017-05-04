@@ -1,7 +1,7 @@
 <?php
 include 'db.php';
 /**
- * Clase bd equipo.Ana Asins
+ *
  */
 class equipo extends db
 {

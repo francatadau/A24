@@ -1,6 +1,6 @@
 <?php
 /**
- * Clase conexion db. Ana Asins
+ *
  */
 class db
 {
